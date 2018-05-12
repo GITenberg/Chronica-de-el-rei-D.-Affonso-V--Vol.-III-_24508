@@ -16,6 +16,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Rui_de_Pina
     - http://en.wikipedia.org/wiki/Rui_de_Pina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24508#Chronica-de-el-rei-D.-Affonso-V--Vol.-III-
 gutenberg_bookshelf:
 - PT História
 - PT Biografia
