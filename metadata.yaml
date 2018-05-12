@@ -1,0 +1,42 @@
+_repo: Chronica-de-el-rei-D.-Affonso-V--Vol.-III-_24508
+_version: 0.1.0
+alternative_title: Crónica de el-rei D. Afonso V (Vol. III)
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pina, Rui de
+    alias: Pina, Ruy de
+    birthdate: 1440
+    deathdate: 1521
+    gutenberg_agent_id: '6799'
+    url: http://www.gutenberg.org/2009/agents/6799
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Rui_de_Pina
+    - http://en.wikipedia.org/wiki/Rui_de_Pina
+description: ''
+gutenberg_bookshelf:
+- PT História
+- PT Biografia
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24508'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\n147--Rua dos Retrozeiros--147\r\n1902"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Afonso V, King of Portugal, 1432-1481'
+- !lcsh 'Biography'
+- !lcc 'CT'
+- !lcsh 'Portugal -- History -- Alfonso V, 1438-1481'
+- !lcc 'DP'
+title: Chronica de el-rei D. Affonso V (Vol. III)
+url: http://www.gutenberg.org/ebooks/24508
